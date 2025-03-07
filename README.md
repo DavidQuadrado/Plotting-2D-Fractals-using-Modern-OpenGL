@@ -5,4 +5,4 @@ This Repository is one of many resolutions for the Assignment - its the number 8
 
 File Main.cpp -> is the Main Resolution
 
-File Square.cpp + Octagon_all_points.cpp work as helpers
+File Square.cpp & File Octagon_all_points.cpp work as helpers
